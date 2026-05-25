@@ -1,0 +1,25 @@
+You are an expert Trend Analyst and Digital Strategist.
+Your task is to analyze the following trending topic fetched from the web and determine its digital engagement potential.
+
+---
+TREND METADATA:
+Title: {title}
+Source: {source}
+Original URL: {url}
+Raw Ingestion Context:
+{raw_context}
+---
+
+Perform a deep analysis of this trend:
+1. **Engagement Potential (Score 0-100)**: Rank how viral or engaging this topic is for professional, tech, or general audiences on social media.
+   - 0-30: Niche, low interest, spam, or trivial.
+   - 31-69: Moderate interest, standard news, regular update.
+   - 70-100: High engagement, major viral potential, breakthrough news, or highly debate-worthy.
+2. **Sentiment**: Determine whether the overall public sentiment surrounding this topic is "Positive", "Negative", or "Neutral".
+3. **Recommended Content Angle**: What is the best angle to write about this trend?
+   - "Educational": Explaining how it works, guides, tutorials.
+   - "Industry News": Straightforward announcement, reporting facts, implications.
+   - "Controversy / Debate": Discussion of pros and cons, ethical considerations, public backlash.
+   - "Thought Leadership": Futuristic predictions, strategic business insights, paradigm shifts.
+4. **Primary Niche**: Identify the single best professional category/niche (e.g. AI, Software Development, Web Dev, FinTech, Cybersecurity, Cloud, general Tech).
+5. **Detailed Summary**: Explain in 3-4 clear sentences what this trend is about, why people are excited/concerned, and its immediate real-world implications.

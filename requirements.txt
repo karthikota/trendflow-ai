@@ -1,0 +1,18 @@
+# TrendFlow AI - Backend Dependencies
+
+# Environment & Config
+python-dotenv>=1.0.1
+pydantic>=2.7.1
+pydantic-settings>=2.2.1
+
+# AI Integration
+google-genai>=0.1.1
+
+# Web Scraping & HTTP
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.2
+
+# API Server
+fastapi>=0.111.0
+uvicorn>=0.30.0
